@@ -12,7 +12,6 @@ flowchart TD
 
 
 
-
 Start ➔ Set Clear Goals: Initiates the process and sets direction.
 Set Clear Goals ➔ Develop a Strategic Plan: Aligns planning with objectives.
 Develop a Strategic Plan ➔ Take Consistent Action: Provides a pathway for action.
