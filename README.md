@@ -23,4 +23,8 @@ Here are some ideas to get you started:
 My hobbies and academic pursuits span across several areas of interest. A large portion of my free time is dedicated to drawing and designing characters for video game concepts. This combines my love for art with storytelling, where I can create imaginative worlds and compelling characters. Additionally, I am pursuing a degree in IT services and support, which perfectly aligns with my passion for technology.
 Outside of my studies and creative endeavors, I deeply enjoy spending time with my family, especially with my son and fiancée. Together, we explore new activities, whether it's outdoor adventures or bonding over simple pleasures like watching movies. Family time is central to my life, providing balance and joy.
 ## Websites I recommend
+[https://krebsonsecurity.com/]
+I find this website compelling because it offers in-depth analysis and reporting on cybersecurity threats, breaches, and emerging trends. Brian Krebs is one of the most well-known investigative journalists in the field, and his blog provides practical advice and a wealth of information for anyone interested in cybersecurity, which ties directly into my academic interests.
+[https://www.artstation.com/?sort_by=community&dimension=all]
+As someone who enjoys character design and concept art, ArtStation is a go-to platform for creative inspiration. It’s home to an enormous community of artists, from beginners to professionals, sharing their portfolios and designs. I love browsing the diverse range of art styles and ideas, which helps spark my own creativity when working on game concepts.
 
