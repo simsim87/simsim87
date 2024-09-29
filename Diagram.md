@@ -10,3 +10,7 @@ flowchart TD
     AchieveGoals --> Celebrate[Celebrate Success]
     Celebrate --> End([End])
 
+## Entity Descriptions
+
+1. **Start**: Initiates the process of achieving work success.
+2. **Set Clear Goals**: Establishes specific, measurable, achievable, relevant, and time-bound (SMART) objectives.
