@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 3. After creating my account at the GitHub website, i clicked on + button on the top right of the page and i selected "New Repository." then, I Entered my repository name, local path, and then I clicked on "Create Repository."
 4. After downloading and installing GitHub desktop version on my laptop , i opened it , then I Clicked on the "+" icon in the top left corner of the screen and i selected "Clone a repository." which in turn opened  a window that showed a list of my Github repositories. I Chose the one i just created then i chose the location on my computer where I want to clone it. after that I Clicked on "Clone repository.
 
+# About Me
+## My interests
+My hobbies and academic pursuits span across several areas of interest. A large portion of my free time is dedicated to drawing and designing characters for video game concepts. This combines my love for art with storytelling, where I can create imaginative worlds and compelling characters. Additionally, I am pursuing a degree in IT services and support, which perfectly aligns with my passion for technology.
+Outside of my studies and creative endeavors, I deeply enjoy spending time with my family, especially with my son and fiancée. Together, we explore new activities, whether it's outdoor adventures or bonding over simple pleasures like watching movies. Family time is central to my life, providing balance and joy.
+## Websites I recommend
+
