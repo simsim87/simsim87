@@ -9,7 +9,6 @@ flowchart TD
     AdjustPlan --> TakeAction
     AchieveGoals --> Celebrate[Celebrate Success]
     Celebrate --> End([End])
-
 ## Entity Descriptions
 
 1. **Start**: Initiates the process of achieving work success.
